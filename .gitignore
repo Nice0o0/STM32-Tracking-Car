@@ -1,0 +1,14 @@
+# Keil MDK 编译产物
+Objects/
+Listings/
+DebugConfig/
+
+# Keil 用户个人配置（含本机路径，不应提交）
+*.uvguix.*
+*.uvoptx
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
